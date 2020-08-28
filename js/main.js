@@ -1,5 +1,5 @@
 function clicou(){
-    alert("Clicou")
+    //alert("Clicou")
     document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>";
 }
 
